@@ -1,0 +1,2 @@
+[Debug] F:/gostudy/log/log/main.go:16: 今天天气很好
+[Debug] F:/gostudy/log/log/main.go:17: 1231231

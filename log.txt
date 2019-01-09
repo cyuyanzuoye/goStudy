@@ -1,0 +1,1 @@
+[Debug] F:/gostudy/log/log/main.go:16: 今天天气很好
