@@ -70,6 +70,7 @@ func unzip(archive, target string) error {
 	return nil
 }
 
+//TODO 文件较大
 func zipFile(){
 	buf := new(bytes.Buffer)
 
@@ -106,6 +107,8 @@ func zipFile(){
 }
 
 func main() {
+	//压缩
 	zipFile()
+	unzip("archive/zip/file.zip","archive/zip/file");
 	isZip("archive/zip/file.zip")
 }
